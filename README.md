@@ -159,6 +159,6 @@ node api.test.js
 ## 📎 Author
 
 **Ifeanyi Felix Ofoelo**  
-[Your LinkedIn] • [Your GitHub]
+
 
 ---
